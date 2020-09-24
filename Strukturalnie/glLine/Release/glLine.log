@@ -1,0 +1,5 @@
+﻿  main.cpp
+main.obj : error LNK2001: unresolved external symbol __imp__glEnd@0
+main.obj : error LNK2001: unresolved external symbol __imp__glBegin@4
+main.obj : error LNK2001: unresolved external symbol __imp__glVertex2f@8
+C:\Users\Lukasz\Desktop\glLine\glLine\Release\glLine.exe : fatal error LNK1120: 3 unresolved externals
