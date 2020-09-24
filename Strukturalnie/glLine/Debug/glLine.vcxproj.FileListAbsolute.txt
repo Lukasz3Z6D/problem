@@ -1,0 +1,4 @@
+C:\Users\Lukasz\Desktop\glLine\glLine\Debug\glLine.exe
+C:\Users\Lukasz\Desktop\glLine\glLine\Debug\glLine.pdb
+C:\Users\Lukasz\Desktop\problem\strukturalnie\glLine\Debug\glLine.exe
+C:\Users\Lukasz\Desktop\problem\strukturalnie\glLine\Debug\glLine.pdb
